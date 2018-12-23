@@ -710,6 +710,7 @@ Now Package More
 Now Packing Magic
 Now Paging Maciej
 Now Particularly Misnamed
+Now Peaceful More
 Now Playing Mario
 Now Playing Mathcore
 Now Printing Money
@@ -791,6 +792,7 @@ Nutty Penguin Music
 Nutty Professor Movie
 Nybble Processing Mainframe
 Nylon Pendulum Movement
+Now Peaceful More
 #
 # please don't add your expansions down here!
 # insert them in alphabetical order to help reduce merge conflicts.
